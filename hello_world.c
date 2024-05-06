@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char* email = "abc.def@student.manchester.ac.uk";
-    printf("Hello. My email address is: %s\n", email);
+    printf("Hello. My email address is:\n");
+    printf("tsz.wong-7@student.manchester.ac.uk\n");
     return 0;
 }
